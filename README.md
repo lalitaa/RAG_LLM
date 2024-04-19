@@ -29,7 +29,6 @@ RAG-QA-PDF is a project aimed at performing question answering (QA) on PDF files
 - Python 3.x
 - PyTorch
 - Transformers
-- PDFPlumber
 - Other dependencies listed in inital cells of Notebook File
 
 **Contributing:**
